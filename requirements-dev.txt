@@ -1,0 +1,10 @@
+streamlit>=1.33
+tensorflow>=2.16
+opencv-python>=4.9
+pandas>=2.2
+numpy>=1.26
+Pillow>=10.2
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+rapidfuzz>=3.6
